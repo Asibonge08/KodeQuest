@@ -1,0 +1,6 @@
+{
+  "name": "DevQuest",
+  "description": "Gamified IT professional development platform covering DIT focus areas—Programming, Network Engineering, Business Analysis, and Cloud/Cybersecurity—with coding challenges, framework learning, and a global leaderboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
